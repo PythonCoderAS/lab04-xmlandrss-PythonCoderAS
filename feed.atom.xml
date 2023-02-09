@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Website's Feed</title>
+	<subtitle>The feed for my website.</subtitle>
+	<link href="http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/feed.atom.xml" rel="self" />
+	<link href="http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/" />
+	<id>urn:uuid:9879b31a-0e8d-4180-acd6-76074e8761c0</id>
+	<updated>2023-02-09T13:24:33-04:00</updated>
+	<author>
+		<name>Aoyan Sarkar</name>
+		<email>sarkaa3@rpi.edu</email>
+	</author>
+	<entry>
+		<title>F-22 performs first-ever air-to-air 'kill' - analysis</title>
+		<link href="https://www.jpost.com/international/article-730622" />
+		<id>urn:uuid:ba6d8e6f-dd5c-4a0f-a12e-afa3dd35f542</id>
+		<updated>2023-02-05T18:27:00Z</updated>
+		<summary>The F-22 Raptor was used to shoot down a balloon that made its way across the continental United States from China.</summary>
+	</entry>
+	<entry>
+		<title>Cold, hunger, despair grip homeless as Turkey-Syria earthquake toll passes 19,000</title>
+		<link href="https://www.reuters.com/world/middle-east/death-toll-syria-turkey-quake-rises-more-than-8700-2023-02-08/"/>
+		<id>urn:uuid:f2df5b1e-b15b-4f71-b476-f3a57efb7ed9</id>
+		<updated>2023-02-09T13:27:00-0400</updated>
+		<summary>Cold, hunger and despair gripped hundreds of thousands of people left homeless after the earthquakes that struck Turkey and Syria three days ago as the death toll passed 19,000 on Thursday.</summary>
+	</entry>
+	<entry>
+		<title>Huge haul of cocaine floating at sea seized</title>
+		<link href="https://www.cnn.com/2023/02/09/asia/new-zealand-cocaine-sea-scli-intl/index.html" />
+		<id>urn:uuid:6f32a7cd-0c3d-42f8-a7d9-2f207a6e33c5</id>
+		<updated>2023-02-09T06:17:00-04:00</updated>
+		<summary>More than 3 tons of cocaine floating in the ocean have been seized by authorities in New Zealand in one of the country's single biggest drugs busts.</summary>
+	</entry>
+	<entry>
+		<title>Is Apple paying any attention to the ChatGPT AI arms race?</title>
+		<link href="https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html"/>
+		<id>urn:uuid:b2f484f5-caeb-44ea-8207-47c4bfc12490</id>
+		<updated>2023-02-09T06:53:00-07:00</updated>
+		<summary>The biggest names in tech are all-in on generative AI, and Apple still can't seem to get Siri right.</summary>
+	</entry>
+	<entry>
+		<title>RPI dorm resident assistants want to unionize</title>
+		<link href="https://www.timesunion.com/news/article/rensselaer-polytechnic-institute-resident-17769406.php"/>
+		<id>urn:uuid:a0e1f60a-4c96-4fa4-9b55-491a150ae64b</id>
+		<updated>2023-02-08T00:00:00Z</updated>
+		<summary>The resident assistants who work in the dorms say their working conditions vary greatly and they want a say in policies about how to handle emergencies.</summary>
+	</entry>
+</feed>
+
+
+
