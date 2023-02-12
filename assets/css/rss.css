@@ -1,0 +1,68 @@
+rss {
+    width: 95%;
+    margin: 1em auto;
+    font-family: sans-serif;
+    font-size: 105%;
+}
+
+title, description {
+    display: block;
+}
+
+channel>title, channel>description {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.5em;
+}
+
+channel>title {
+    font-size: 2em;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
+channel>description {
+    font-size: 1.2em;
+    color: #666;
+    text-align: center;
+}
+
+channel>link::before {
+    content: "Channel Link: ";
+}
+
+guid::before {
+    content: "Item GUID: ";
+}
+
+link, guid, lastBuildDate, pubDate {
+    padding-right: 3em;
+}
+
+lastBuildDate::before {
+    content: "Last Built: ";
+}
+
+pubDate::before {
+    content: "Published: ";
+}
+
+item>title {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #000;
+    margin: 1em 0
+}
+
+item>description {
+    margin-bottom: 0.5em;
+}
+
+item>link, item>guid, item>pubDate {
+    display: block;
+}
+
+item>link::before {
+    content: "Item Link: ";
+}
