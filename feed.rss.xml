@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="assets/css/rss.css"?>
+<rss version="2.0">
+<channel>
+	<title>My Website's Feed</title>
+	<description>The feed for my website.</description>
+	<link>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/</link>
+	<lastBuildDate>Thu, 09 Feb 2023 12:24:33 -0500</lastBuildDate>
+	<pubDate>Thu, 09 Feb 2023 12:24:33 -0500</pubDate>
+	<item>
+		<title>F-22 performs first-ever air-to-air 'kill' - analysis</title>
+		<description>Here is some text containing an interesting description of the thing to be described.</description>
+		<link>https://www.jpost.com/international/article-730622</link>
+		<guid>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/guid/ba6d8e6f-dd5c-4a0f-a12e-afa3dd35f542</guid>
+	  	<pubDate>Sun, 05 Feb 2023 18:27:00 +0000</pubDate>
+	</item>
+	<item>
+		<title>Cold, hunger, despair grip homeless as Turkey-Syria earthquake toll passes 19,000</title>
+		<description>Cold, hunger and despair gripped hundreds of thousands of people left homeless after the earthquakes that struck Turkey and Syria three days ago as the death toll passed 19,000 on Thursday.</description>
+		<link>https://www.reuters.com/world/middle-east/death-toll-syria-turkey-quake-rises-more-than-8700-2023-02-08/</link>
+		<guid>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/guid/f2df5b1e-b15b-4f71-b476-f3a57efb7ed9</guid>
+		<pubDate>Thu, 09 Feb 2023 13:27:00 -0500</pubDate>
+	</item>
+	<item>
+		<title>Huge haul of cocaine floating at sea seized</title>
+		<description>More than 3 tons of cocaine floating in the ocean have been seized by authorities in New Zealand in one of the country's single biggest drugs busts.</description>
+		<link>https://www.cnn.com/2023/02/09/asia/new-zealand-cocaine-sea-scli-intl/index.html</link>
+		<guid>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/guid/6f32a7cd-0c3d-42f8-a7d9-2f207a6e33c5</guid>
+		<pubDate>Thu, 09 Feb 2023 06:17:00 -0500</pubDate>
+	</item>
+	<item>
+		<title>Is Apple paying any attention to the ChatGPT AI arms race?</title>
+		<description>The biggest names in tech are all-in on generative AI, and Apple still can't seem to get Siri right.</description>
+		<link>https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html</link>
+		<guid>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/guid/b2f484f5-caeb-44ea-8207-47c4bfc12490</guid>
+		<pubDate>Thu, 09 Feb 2023 06:53:00 -0800</pubDate>
+	</item>
+	<item>
+		<title>I dorm resident assistants want to unionize</title>
+		<description>The resident assistants who work in the dorms say their working conditions vary greatly and they want a say in policies about how to handle emergencies.</description>
+		<link>https://www.timesunion.com/news/article/rensselaer-polytechnic-institute-resident-17769406.php</link>
+		<guid>http://sarkaa3rpi.eastus.cloudapp.azure.com/iit/labs/lab4/guid/a0e1f60a-4c96-4fa4-9b55-491a150ae64b</guid>
+		<pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+	</item>
+</channel>
+</rss>
+
