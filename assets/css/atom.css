@@ -1,0 +1,60 @@
+feed {
+    width: 95%;
+    margin: 1em auto;
+    font-family: sans-serif;
+    font-size: 105%;
+}
+
+title, subtitle, summary {
+    display: block;
+}
+
+feed>title, feed>subtitle {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.5em;
+}
+
+feed>title {
+    font-size: 2em;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
+feed>subtitle {
+    font-size: 1.2em;
+    color: #666;
+    text-align: center;
+}
+
+feed>id::before {
+    content: "Feed ID: ";
+}
+
+entry>id::before {
+    content: "Entry ID: ";
+}
+
+id, updated {
+    padding-right: 3em;
+}
+
+updated::before {
+    content: "Last Updated: ";
+}
+
+feed>author::before {
+    content: "Feed Author: ";
+}
+
+entry>title {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #000;
+    margin: 1em 0
+}
+
+summary {
+    margin-top: 0.5em;
+}
